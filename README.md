@@ -6,6 +6,10 @@ Duotrace is a reimplementation of strace and it has such a name as it has two bu
 - ptrace syscall
 - ebpf
 
+## TODO
+- Add ebpf support
+- Add coloured UI with groupped syscalls like that of htop
+
 ## Build
 
 ```bash
