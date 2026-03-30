@@ -1,8 +1,10 @@
-# ft_strace
+# Duotrace
 
 ## Description
 
-ft_strace is a simple implementation of the strace command. It allows you to trace the execution of a program and the system calls it makes.
+Duotrace is a reimplementation of strace and it has such a name as it has two builtin ways of tracing:
+- ptrace syscall
+- ebpf
 
 ## Build
 
